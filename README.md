@@ -21,3 +21,8 @@ You can get them independently by calling: <br>
 <strong>getMonth()</strong><br>
 <strong>getYear()</strong><br>
 <strong>getDay()</strong> -> To get the day ( 0 -> Sunday, 6 -> Saturday )
+
+Note
+============
+
+This code was originally written in C#.
