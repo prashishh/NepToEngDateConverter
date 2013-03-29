@@ -11,7 +11,7 @@ Call DateConverter function with parameters date, month and year.
 
 
 Eg. 
-<strong>DateConverter( date, month, year )</strong><br>
+<strong>DateConversion( date, month, year )</strong><br>
 or<br>
 var result = DateConversion(25, 9, 2046);<br>
 result is obtained in the form <strong>"year/month/date"</strong>
